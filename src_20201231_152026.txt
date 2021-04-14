@@ -1,0 +1,20 @@
+WARNING - 15:20:26: First conversion pass
+ERROR - 15:20:26: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:20:46: Convert 
+WARNING - 15:20:46: First conversion pass
+ERROR - 15:20:46: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:23:29: Convert controlleur
+WARNING - 15:23:29: First conversion pass
+ERROR - 15:23:29: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:35:22: Convert Agence_Imobiliere
+ERROR - 15:35:22: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:35:24: Convert Agence_Imobiliere
+ERROR - 15:35:25: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:35:37: Convert Agence_Imobiliere
+ERROR - 15:35:37: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:35:47: Convert Agence_Imobiliere
+ERROR - 15:35:47: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:36:09: Convert Agence_Imobiliere
+ERROR - 15:36:09: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:36:15: Convert Agence_Imobiliere
+ERROR - 15:36:15: java.net.MalformedURLException: unknown protocol: pathmap
